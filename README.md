@@ -28,4 +28,15 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 ## CTF ve King-Off-the-Hill
 Öncelikle 1. hafta CTF çözüyoruz. 2. hafta King-Off-the-Hill atıyoruz. Birde bunların hepsi Çarşamba günleri HacWare sunucusunda(https://discord.io/hack-ware) oluyor. Herkez izlemek içinde gelebilir katılmak içinde. İsteyen sunucuda eğer onaylanır ise CTF çözebilir.
 
-Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor
+Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
+
+## Nasıl Siber güvenlikçi olurum?
+1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
+1. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
+1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
+1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
+1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
+1. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
+1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
+1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
+1. Bunlardan sonra artık kendi yolunu çizebilirsin
