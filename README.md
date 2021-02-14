@@ -62,7 +62,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
 - [Siber Dünya](https://www.youtube.com/channel/UCFNNt-d_ssSvnGfbBMv3ajA)
 - [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
 <details>
-<summary>İngilizce siber güvanlikle ilgili youtube kanlları:</summary>
+<summary>İngilizce siber güvanlikle ilgili youtube kanalları:</summary>
 
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
