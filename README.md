@@ -28,5 +28,4 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 ## CTF ve King-Off-the-Hill
 Öncelikle 1. hafta CTF çözüyoruz. 2. hafta King-Off-the-Hill atıyoruz. Birde bunların hepsi Çarşamba günleri HacWare sunucusunda(https://discord.io/hack-ware) oluyor. Herkez izlemek içinde gelebilir katılmak içinde. İsteyen sunucuda eğer onaylanır ise CTF çözebilir.
 
-Note: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor
-
+Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor
