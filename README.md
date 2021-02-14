@@ -4,8 +4,8 @@
 - **Youtube:** [![HackWare](https://img.shields.io/badge/HackWare-Youtube-red)](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1)
 - **discord:** [![Discord](https://discord.com/api/guilds/779090895156674560/widget.png)](https://discord.io/hack-ware)
 
-|HackWare Team|Yetki|Links|
-|---|---|---|
+|HackWare Team|Yetki|Linkler|
+|:---:|:---:|:---:|
 |Atıl Samancıoğlu|Roots|[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-brightgreen)](https://discord.com/users/722134683650883697)|
 |Aziz Kaplan|Roots|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-brightgreen)](https://discord.com/users/782245134062321694)|
 |Burak|Roots|[![Burak](https://img.shields.io/badge/HackWare-Discord-brightgreen)](https://discord.com/users/809016441910722580)|
@@ -40,3 +40,51 @@ Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
 1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
 1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
 1. Bunlardan sonra artık kendi yolunu çizebilirsin
+
+## Neden siber güvenlikte python çounlukla kullanılıyor.
+- Python diğer dillere göre öğrenmesi daha kolay.
+- Python çok amaçlı kullanılan dillir.
+
+## Kaynaklar
+<details>
+<summary>Takip edilmesi gereken Youtube kanalları:</summary>
+
+### Siber güvenlik
+- [HackWare](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g)
+- [Atıl Samancıoğlu](https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ)
+- [Can Değer](https://www.youtube.com/user/theblaxx)
+- [Ascard_Education](https://www.youtube.com/channel/UCdB4Yp-MzsgqjIHU0eNx6QQ)
+- [Mehmet D. INCE](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
+- [Siber Kampüs](https://www.youtube.com/channel/UCfvjRxayLujZbc_JWTYhbMg)
+- [Gökhan Bekşen](https://www.youtube.com/user/gokaybeksen)
+- [Türkiye Siber Güvenlik Kümelenmesi](https://www.youtube.com/channel/UCHxw8GMMg62MXepyA-0wtDw)
+- [Gökhan Muherremoğlu](https://www.youtube.com/channel/UCK1Eb19myZZZp21laMcmoJg)
+- [Siber Dünya](https://www.youtube.com/channel/UCFNNt-d_ssSvnGfbBMv3ajA)
+- [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
+<details>
+<summary>İngilizce siber güvanlikle ilgili youtube kanlları:</summary>
+
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+- [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Hak5](https://www.youtube.com/user/Hak5Darren)
+</details>
+
+### Programlama
+
+- [Sadık Turan](https://www.youtube.com/user/sadikturan41)
+- [Selman Kahya](https://www.youtube.com/channel/UC9Z-Gc_BkYuW75jKcTJICJA)
+- [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
+- [Yazılım Bilimi](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
+- [Selman Kahya | Teknik](https://www.youtube.com/channel/UCmp2rZ-cJJ_TQupBzzR7LdA)
+- [SendeKodYaz](https://www.youtube.com/channel/UCjUd1-9iNjTQhnz06Gdf1rA)
+- [Murat Yücadağ](https://www.youtube.com/channel/UCbkbOlw8snP93RJ2BhH44Qw)
+- [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
+- [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- [tekno date](https://www.youtube.com/channel/UCk2NW1-7Jzm55FP2v3pVn-Q)
+</details>
