@@ -32,6 +32,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
 
 ## Nasıl Siber güvenlikçi olurum?
 1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
+1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
 1. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
 1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
 1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
@@ -41,7 +42,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
 1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
 1. Bunlardan sonra artık kendi yolunu çizebilirsin
 
-## Neden siber güvenlikte python çounlukla kullanılıyor.
+## Neden siber güvenlikte python çoğunlukla kullanılıyor.
 - Python diğer dillere göre öğrenmesi daha kolay.
 - Python çok amaçlı kullanılan dillir.
 
@@ -87,4 +88,14 @@ Not: Şuanlık CTF ve King-Off-the-Hill youtube'a yüklenmiyor.
 - [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
 - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [tekno date](https://www.youtube.com/channel/UCk2NW1-7Jzm55FP2v3pVn-Q)
+</details>
+
+<details>
+<summary>Website</summary>
+
+#### Kurslar için websiteler:
+- https://www.udemy.com/
+- https://www.btkakademi.gov.tr/
+- https://www.youtube.com/
+
 </details>
